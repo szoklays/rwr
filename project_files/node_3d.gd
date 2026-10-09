@@ -112,3 +112,4 @@ func _webxr_on_squeeze_start(input_source_id: int) -> void:
 
 func _webxr_on_squeeze_end(input_source_id: int) -> void:
   print("Squeeze End: " + str(input_source_id))
+
